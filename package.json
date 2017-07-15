@@ -1,0 +1,29 @@
+{
+  "name": "dropdownlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/webpack-dev-server --progress --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzyko/dropdownlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzyko/dropdownlist/issues"
+  },
+  "homepage": "https://github.com/dzyko/dropdownlist#readme",
+  "dependencies": {
+    "angular": "1.5.9",
+    "bootstrap": "3.3.7",
+    "jquery": "3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "3.3.0",
+    "webpack-dev-server": "2.5.1"
+  }
+}
